@@ -47,5 +47,5 @@ bash
 Copy
 Edit
 cd emotion-detector-app
-streamlit run app.py
+##*streamlit run app.py *
 Once launched, open the displayed URL (usually http://localhost:8501) in your browser.
